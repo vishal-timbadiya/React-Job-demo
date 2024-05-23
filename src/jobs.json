@@ -1,0 +1,354 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Senior React Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented Front-End Developer to join our team in Mumbai. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as React or Angular.",
+      "location": "Mumbai",
+      "salary": "₹5,500,000 - ₹6,300,000",
+      "company": {
+        "name": "NewTek Solutions",
+        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "contact@teksolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Front-End Engineer (React & Redux)",
+      "type": "Full-Time",
+      "location": "Bangalore",
+      "description": "Join our team as a Front-End Developer in sunny Bangalore. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
+      "salary": "₹5,500,000 - ₹6,300,000",
+      "company": {
+        "name": "Veneer Solutions",
+        "description": "Veneer Solutions is a creative agency specializing in digital design and development. Our team is dedicated to pushing the boundaries of creativity and innovation to deliver exceptional results for our clients.",
+        "contactEmail": "contact@loremipsum.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "3",
+      "title": "React.js Dev",
+      "type": "Full-Time",
+      "location": "Chennai",
+      "description": "Are you passionate about front-end development? Join our team in vibrant Chennai and work on exciting projects that make a difference. We offer competitive compensation and a collaborative work environment where your ideas are valued.",
+      "salary": "₹5,500,000 - ₹6,300,000",
+      "company": {
+        "name": "Dolor Cloud",
+        "description": "Dolor Cloud is a leading technology company specializing in digital solutions for businesses of all sizes. With a focus on innovation and customer satisfaction, we are committed to delivering cutting-edge products and services.",
+        "contactEmail": "contact@dolorsitamet.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "4",
+      "title": "React Front-End Developer",
+      "type": "Part-Time",
+      "description": "Join our team as a Part-Time Front-End Developer in beautiful Jaipur. We are looking for a self-motivated individual with a passion for creating engaging user experiences. This position offers flexible hours and the opportunity to work remotely.",
+      "location": "Jaipur",
+      "salary": "₹4,700,000 - ₹5,500,000",
+      "company": {
+        "name": "Alpha Elite",
+        "description": "Alpha Elite is a dynamic startup specializing in digital marketing and web development. We are committed to fostering a diverse and inclusive workplace where creativity and innovation thrive.",
+        "contactEmail": "contact@adipisicingelit.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Full Stack React Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Full-Time Front-End Developer in bustling Delhi. We are seeking a talented individual with a passion for building elegant and scalable web applications. Join our team and make an impact!",
+      "location": "Delhi",
+      "salary": "₹7,100,000 - ₹7,900,000",
+      "company": {
+        "name": "Browning Technologies",
+        "description": "Browning Technologies is a rapidly growing technology company specializing in e-commerce solutions. We offer a dynamic and collaborative work environment where employees are encouraged to think creatively and innovate.",
+        "contactEmail": "contact@consecteturadipisicing.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "6",
+      "title": "React Native Developer",
+      "type": "Full-Time",
+      "description": "Join our team as a Front-End Developer in beautiful Pune. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
+      "location": "Pune",
+      "salary": "₹7,900,000 - ₹8,700,000",
+      "company": {
+        "name": "Port Solutions INC",
+        "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
+        "contactEmail": "contact@ipsumlorem.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "7",
+      "title": "JavaScript Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a JavaScript Developer to join our dynamic team in Hyderabad. The ideal candidate should have extensive experience with JavaScript, including frameworks like React and Angular.",
+      "location": "Hyderabad",
+      "salary": "₹6,000,000 - ₹7,000,000",
+      "company": {
+        "name": "Tech Innovators",
+        "description": "Tech Innovators is a technology-driven company focusing on delivering innovative solutions to clients. We offer a collaborative environment and opportunities for career growth.",
+        "contactEmail": "contact@techinnovators.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "8",
+      "title": "UI/UX Designer",
+      "type": "Part-Time",
+      "description": "Join our team as a UI/UX Designer in the vibrant city of Ahmedabad. We are looking for a creative individual with a strong portfolio and experience in designing user-centric applications.",
+      "location": "Ahmedabad",
+      "salary": "₹4,000,000 - ₹5,000,000",
+      "company": {
+        "name": "Creative Minds",
+        "description": "Creative Minds is a design-focused company dedicated to creating user-friendly digital experiences. We value innovation and creativity in our team members.",
+        "contactEmail": "contact@creativeminds.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "9",
+      "title": "Backend Developer",
+      "type": "Full-Time",
+      "description": "We are looking for a skilled Backend Developer to join our team in Kolkata. The candidate should have experience with Node.js and database management.",
+      "location": "Kolkata",
+      "salary": "₹5,000,000 - ₹6,000,000",
+      "company": {
+        "name": "Backend Solutions",
+        "description": "Backend Solutions specializes in server-side development and database management. We provide a supportive work environment and opportunities for professional growth.",
+        "contactEmail": "contact@backendsolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "10",
+      "title": "Full Stack Developer",
+      "type": "Full-Time",
+      "description": "Join our team as a Full Stack Developer in Lucknow. We are seeking a versatile developer with experience in both front-end and back-end technologies.",
+      "location": "Lucknow",
+      "salary": "₹6,500,000 - ₹7,500,000",
+      "company": {
+        "name": "Integrated Systems",
+        "description": "Integrated Systems is a leading provider of comprehensive IT solutions. Our team is dedicated to innovation and delivering top-notch services to our clients.",
+        "contactEmail": "contact@integratedsystems.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "11",
+      "title": "Mobile App Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a Mobile App Developer to join our team in Surat. The ideal candidate should have experience with both iOS and Android development.",
+      "location": "Surat",
+      "salary": "₹5,800,000 - ₹6,800,000",
+      "company": {
+        "name": "Mobile Innovators",
+        "description": "Mobile Innovators specializes in mobile app development. We offer a dynamic work environment and opportunities for growth and advancement.",
+        "contactEmail": "contact@mobileinnovators.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "12",
+      "title": "DevOps Engineer",
+      "type": "Full-Time",
+      "description": "Join our team as a DevOps Engineer in Chandigarh. We are looking for an experienced professional to help streamline our deployment processes and improve system reliability.",
+      "location": "Chandigarh",
+      "salary": "₹7,000,000 - ₹8,000,000",
+      "company": {
+        "name": "OpsStream",
+        "description": "OpsStream is dedicated to providing top-notch DevOps services to enhance our clients' IT infrastructure. We value expertise and efficiency in our team members.",
+        "contactEmail": "contact@opsstream.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "13",
+      "title": "Data Scientist",
+      "type": "Full-Time",
+      "description": "We are seeking a Data Scientist to join our team in Indore. The candidate should have experience in data analysis, machine learning, and statistical modeling.",
+      "location": "Indore",
+      "salary": "₹8,500,000 - ₹9,500,000",
+      "company": {
+        "name": "Data Insights",
+        "description": "Data Insights specializes in data analytics and business intelligence. We offer a collaborative environment where innovation and knowledge sharing are encouraged.",
+        "contactEmail": "contact@datainsights.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "14",
+      "title": "QA Engineer",
+      "type": "Full-Time",
+      "description": "Join our team as a QA Engineer in Bhopal. We are looking for a detail-oriented professional to ensure the quality and reliability of our software products.",
+      "location": "Bhopal",
+      "salary": "₹4,500,000 - ₹5,500,000",
+      "company": {
+        "name": "Quality Assurance Co.",
+        "description": "Quality Assurance Co. is dedicated to delivering high-quality software products. We provide a supportive work environment with a focus on continuous improvement.",
+        "contactEmail": "contact@qualityassurance.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "15",
+      "title": "System Administrator",
+      "type": "Full-Time",
+      "description": "We are seeking a System Administrator to join our team in Nagpur. The ideal candidate should have experience in managing IT infrastructure and system maintenance.",
+      "location": "Nagpur",
+      "salary": "₹5,000,000 - ₹6,000,000",
+      "company": {
+        "name": "SysAdmin Solutions",
+        "description": "SysAdmin Solutions provides IT infrastructure management services. We offer a collaborative and supportive work environment with opportunities for growth.",
+        "contactEmail": "contact@sysadminsolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "16",
+      "title": "Product Manager",
+      "type": "Full-Time",
+      "description": "Join our team as a Product Manager in Thane. We are looking for an experienced professional to lead our product development efforts and ensure successful launches.",
+      "location": "Thane",
+      "salary": "₹8,000,000 - ₹9,000,000",
+      "company": {
+        "name": "Product Innovators",
+        "description": "Product Innovators focuses on delivering innovative products to the market. We value leadership, creativity, and a customer-centric approach in our team members.",
+        "contactEmail": "contact@productinnovators.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "17",
+      "title": "Graphic Designer",
+      "type": "Part-Time",
+      "description": "We are seeking a talented Graphic Designer to join our team in Varanasi. The candidate should have a strong portfolio and experience in both digital and print design.",
+      "location": "Varanasi",
+      "salary": "₹3,500,000 - ₹4,500,000",
+      "company": {
+        "name": "Design Studio",
+        "description": "Design Studio is a creative agency specializing in visual design. We offer a dynamic and inspiring work environment where creativity and innovation are highly valued.",
+        "contactEmail": "contact@designstudio.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "18",
+      "title": "Network Engineer",
+      "type": "Full-Time",
+      "description": "Join our team as a Network Engineer in Ludhiana. We are looking for a skilled professional to manage and optimize our network infrastructure.",
+      "location": "Ludhiana",
+      "salary": "₹6,000,000 - ₹7,000,000",
+      "company": {
+        "name": "NetTech Solutions",
+        "description": "NetTech Solutions provides comprehensive network management services. We value technical expertise and a proactive approach to problem-solving in our team members.",
+        "contactEmail": "contact@nettechsolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "19",
+      "title": "Content Writer",
+      "type": "Part-Time",
+      "description": "We are seeking a creative Content Writer to join our team in Agra. The candidate should have a flair for writing engaging content for various digital platforms.",
+      "location": "Agra",
+      "salary": "₹2,500,000 - ₹3,500,000",
+      "company": {
+        "name": "Content Creators",
+        "description": "Content Creators specializes in creating high-quality content for digital marketing. We offer a flexible work environment and opportunities for creative expression.",
+        "contactEmail": "contact@contentcreators.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "20",
+      "title": "Cybersecurity Analyst",
+      "type": "Full-Time",
+      "description": "Join our team as a Cybersecurity Analyst in Patna. We are looking for a detail-oriented professional to help safeguard our digital assets and ensure data security.",
+      "location": "Patna",
+      "salary": "₹7,500,000 - ₹8,500,000",
+      "company": {
+        "name": "SecureTech",
+        "description": "SecureTech is dedicated to providing top-notch cybersecurity services. We value diligence, attention to detail, and a proactive approach to security in our team members.",
+        "contactEmail": "contact@securetech.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "21",
+      "title": "Database Administrator",
+      "type": "Full-Time",
+      "description": "We are seeking a Database Administrator to join our team in Meerut. The candidate should have experience in database management, optimization, and security.",
+      "location": "Meerut",
+      "salary": "₹6,000,000 - ₹7,000,000",
+      "company": {
+        "name": "DataMasters",
+        "description": "DataMasters specializes in database management and optimization services. We offer a supportive work environment and opportunities for professional development.",
+        "contactEmail": "contact@datamasters.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "22",
+      "title": "Technical Support Specialist",
+      "type": "Full-Time",
+      "description": "Join our team as a Technical Support Specialist in Nashik. We are looking for a customer-focused professional to provide technical assistance and support to our clients.",
+      "location": "Nashik",
+      "salary": "₹4,000,000 - ₹5,000,000",
+      "company": {
+        "name": "Support Hub",
+        "description": "Support Hub provides technical support and customer service solutions. We value problem-solving skills and a customer-centric approach in our team members.",
+        "contactEmail": "contact@supporthub.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "23",
+      "title": "Cloud Engineer",
+      "type": "Full-Time",
+      "description": "We are seeking a Cloud Engineer to join our team in Coimbatore. The candidate should have experience with cloud platforms like AWS, Azure, or Google Cloud.",
+      "location": "Coimbatore",
+      "salary": "₹7,000,000 - ₹8,000,000",
+      "company": {
+        "name": "CloudTech",
+        "description": "CloudTech specializes in cloud computing and infrastructure services. We offer a collaborative work environment and opportunities for professional growth.",
+        "contactEmail": "contact@cloudtech.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "24",
+      "title": "Business Analyst",
+      "type": "Full-Time",
+      "description": "Join our team as a Business Analyst in Jodhpur. We are looking for a detail-oriented professional to help analyze business processes and improve efficiency.",
+      "location": "Jodhpur",
+      "salary": "₹6,500,000 - ₹7,500,000",
+      "company": {
+        "name": "Business Solutions Inc.",
+        "description": "Business Solutions Inc. focuses on providing strategic business consulting services. We value analytical thinking and a problem-solving approach in our team members.",
+        "contactEmail": "contact@businesssolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "25",
+      "title": "Digital Marketing Specialist",
+      "type": "Full-Time",
+      "description": "We are seeking a Digital Marketing Specialist to join our team in Amritsar. The candidate should have experience with SEO, SEM, and social media marketing.",
+      "location": "Amritsar",
+      "salary": "₹5,500,000 - ₹6,500,000",
+      "company": {
+        "name": "Marketing Gurus",
+        "description": "Marketing Gurus specializes in digital marketing and advertising solutions. We offer a creative work environment and opportunities for career advancement.",
+        "contactEmail": "contact@marketinggurus.com",
+        "contactPhone": "555-555-5555"
+      }
+    }
+  ]
+}
